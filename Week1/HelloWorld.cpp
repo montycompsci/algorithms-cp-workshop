@@ -13,7 +13,7 @@ int main()
 	bool w = true;
 	if (w)
 		cout << "True";
-
+	// NOTE: You can actually leave off the brackets after an if or for if the code inside is only one line
 
 }
 
