@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(int argc, char *argv[]) {
+int main() {
 
   // This connects the files to standard input and output
   freopen("teleport.in", "r", stdin);
